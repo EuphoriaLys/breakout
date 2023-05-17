@@ -1,0 +1,6 @@
+# you can customise it to see it fit 
+
+*.pyc
+# all .pyc have to be ignored
+
+*.blend?
